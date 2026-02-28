@@ -1,0 +1,8 @@
+title: AI Video Generation Guides
+description: Comprehensive guides for AI video generation tools in multiple languages
+url: https://fengxiaolonger.github.io
+baseurl: /ai-video-guides
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
