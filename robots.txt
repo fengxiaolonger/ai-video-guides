@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fengxiaolonger.github.io/ai-video-guides/sitemap.xml
